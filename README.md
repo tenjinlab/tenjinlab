@@ -1,7 +1,12 @@
-### Hello ! !
+[![twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label=&color=004B97)](https://twitter.com/Tenjin_Cancer)
+[![discord](https://badgen.net/badge/icon/discord?icon=discord&label=&color=96FED1)](https://t.me/hyperbola_cc)
 
-![](http://antzuhl.cn:4000/get/@tenjinlab.readme)
+![stats](https://github-readme-stats.vercel.app/api?username=tenjinlab&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)  
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=tenjinlab&theme=vue-dark&hide_border=true)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tenjinlab&show_icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenjinlab&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+## Bots
 
-[去找๖天神᭄࿐](https://www.instagram.com/k._._._o._._._._r._._._.k_0623/)
+- [LINE群組機器人](https://github.com/tenjinlab/LINE-Bot)  
+## Badges
+
+<a url="https://imgur.com/gallery/SazGcDJ" target="_blank"><img src="https://i.imgur.com/mjImfSF.png" alt="abuseipdb" width="300"></a>
