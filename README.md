@@ -9,5 +9,6 @@
 - [LINE群組機器人](https://github.com/tenjinlab/LINE-Bot)  
 ## Role Sample
 
-<a url="https://www.webtoons.com/zh-hant/fantasy/ainv/list?title_no=1581#" target="_blank"><img src="https://i.imgur.com/mjImfSF.png" alt="hasty" width="300"></a>
+<a url="https://imgur.com/gallery/SazGcDJ" target="_blank"><img src="[https://i.imgur.com/mjImfSF.png](https://www.webtoons.com/zh-hant/fantasy/ainv/list?title_no=1581#)" alt="hasty" width="300"></a>
+
 
